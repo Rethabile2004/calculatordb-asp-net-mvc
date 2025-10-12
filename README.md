@@ -51,7 +51,7 @@ This maintains **data integrity** and provides **clear feedback** to the user.
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/<your-username>/CalculatorAppDB.git
+   git clone https://github.com/Rethabile2004/calculatorDb-ASP.NET-MVC.git
 
 
 Open the project in Visual Studio 2022 (or newer).
