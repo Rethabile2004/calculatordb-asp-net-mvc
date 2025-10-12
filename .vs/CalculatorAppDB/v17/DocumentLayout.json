@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\infrastructure\\verifyfunctionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\infrastructure\\verifyfunctionsattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\controllers\\calculatorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\views\\calculator\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\views\\calculator\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\repositories\\dbinitializerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\repositories\\dbinitializerrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\repositories\\calcrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\repositories\\calcrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\models\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\models\\calc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\interfaces\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\interfaces\\idbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\interfaces\\icalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\interfaces\\icalc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\data\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\data\\calculatorcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\views\\calculator\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\views\\calculator\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\calculatorappdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\calculatorappdb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\views\\calculator\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\views\\calculator\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\views\\calculator\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\views\\calculator\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\views\\calculator\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|c:\\users\\retha\\desktop\\github\\console applications c sharp\\calculatorappdb\\calculatorappdb\\views\\home\\seeddatabase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5CEA46-611C-43DA-BF28-76A84D259180}|CalculatorAppDB\\CalculatorAppDB.csproj|solutionrelative:calculatorappdb\\views\\home\\seeddatabase.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculatorController.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Controllers\\CalculatorController.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Controllers\\CalculatorController.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Controllers\\CalculatorController.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Controllers\\CalculatorController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwFcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:53:32.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:53:49.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CalculatorContext.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Data\\CalculatorContext.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Data\\CalculatorContext.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Data\\CalculatorContext.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Data\\CalculatorContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:33:46.701Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Program.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Program.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Program.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:52:02.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBInitializerRepo.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Repositories\\DBInitializerRepo.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Repositories\\DBInitializerRepo.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Repositories\\DBInitializerRepo.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Repositories\\DBInitializerRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:36:32.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Calc.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Models\\Calc.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Models\\Calc.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Models\\Calc.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Models\\Calc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:35:34.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Microsoft.NET.Sdk.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.300\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.NET.Sdk.targets",
+              "ViewState": "AgIAAFIBAAAAAAAAAAAYwEIBAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-10-11T20:47:45.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\appsettings.json",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\appsettings.json",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\appsettings.json",
+              "RelativeToolTip": "CalculatorAppDB\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-09T16:51:24.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalcRepo.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Repositories\\CalcRepo.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Repositories\\CalcRepo.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Repositories\\CalcRepo.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Repositories\\CalcRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:36:20.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CalculatorAppDB.csproj",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\CalculatorAppDB.csproj",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\CalculatorAppDB.csproj",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\CalculatorAppDB.csproj",
+              "RelativeToolTip": "CalculatorAppDB\\CalculatorAppDB.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-09T16:31:59.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CalculatorAppDB\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T17:58:03.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Create.cshtml",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Views\\Calculator\\Create.cshtml",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Create.cshtml",
+              "RelativeToolTip": "CalculatorAppDB\\Views\\Calculator\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T17:05:35.804Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Index.cshtml",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Views\\Calculator\\Index.cshtml",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Index.cshtml",
+              "RelativeToolTip": "CalculatorAppDB\\Views\\Calculator\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T17:02:00.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Views\\Calculator\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Edit.cshtml",
+              "RelativeToolTip": "CalculatorAppDB\\Views\\Calculator\\Edit.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T17:07:12.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Details.cshtml",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Views\\Calculator\\Details.cshtml",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Details.cshtml",
+              "RelativeToolTip": "CalculatorAppDB\\Views\\Calculator\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T17:04:22.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Views\\Calculator\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Calculator\\Delete.cshtml",
+              "RelativeToolTip": "CalculatorAppDB\\Views\\Calculator\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T17:08:26.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VerifyFunctionsAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Infrastructure\\VerifyFunctionsAttribute.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Infrastructure\\VerifyFunctionsAttribute.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Infrastructure\\VerifyFunctionsAttribute.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Infrastructure\\VerifyFunctionsAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:34:26.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IDBInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Interfaces\\IDBInitializer.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Interfaces\\IDBInitializer.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Interfaces\\IDBInitializer.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Interfaces\\IDBInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:35:14.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICalc.cs",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Interfaces\\ICalc.cs",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Interfaces\\ICalc.cs",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Interfaces\\ICalc.cs",
+              "RelativeToolTip": "CalculatorAppDB\\Interfaces\\ICalc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T16:34:51.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CalculatorAppDB\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T16:54:53.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SeedDatabase.cshtml",
+              "DocumentMoniker": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Home\\SeedDatabase.cshtml",
+              "RelativeDocumentMoniker": "CalculatorAppDB\\Views\\Home\\SeedDatabase.cshtml",
+              "ToolTip": "C:\\Users\\retha\\Desktop\\GitHub\\Console Applications C Sharp\\CalculatorAppDB\\CalculatorAppDB\\Views\\Home\\SeedDatabase.cshtml",
+              "RelativeToolTip": "CalculatorAppDB\\Views\\Home\\SeedDatabase.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-09T17:25:00.391Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

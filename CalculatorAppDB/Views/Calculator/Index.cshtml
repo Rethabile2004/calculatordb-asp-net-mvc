@@ -1,0 +1,54 @@
+﻿@model IEnumerable<CalculatorAppDB.Models.Calc>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>List of Calculators</h1>
+
+<p>
+    <a asp-action="Create">Add new calculator</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.SerialNr)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Make)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Model)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Functions)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.SerialNr)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Make)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Model)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Functions)
+                </td>
+                <td>
+                    @Html.ActionLink("Update", "Edit", new { serialNr = item.SerialNr }) |
+                    @Html.ActionLink("Details", "Details", new { serialNr = item.SerialNr }) |
+                    @Html.ActionLink("Delete", "Delete", new { serialNr = item.SerialNr })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
