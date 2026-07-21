@@ -1,3 +1,4 @@
+Click here to watch the video demo on youtube: [![Watch the Video](https://img.shields.io/badge/YouTube-Watch%20Video-red?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/HDpnD1Cw9tQ?si=4Jex6abS5IgYaDPG)
 
 # CalculatorAppDB
 
@@ -33,34 +34,35 @@ The application allows users to manage a database of calculators by performing *
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Rethabile2004/calculatorDb-ASP.NET-MVC.git
+   git clone [https://github.com/Rethabile2004/calculatorDb-ASP.NET-MVC.git](https://github.com/Rethabile2004/calculatorDb-ASP.NET-MVC.git)
    cd calculatorDb-ASP.NET-MVC
-   ```
+
+```
 
 2. **Open the project in Visual Studio.**
-
 3. **Build the solution.**
-
-4. **Run the application (F5).**  
-   The app will launch in your browser at a local port, e.g. `https://localhost:7241/`.
+4. **Run the application (F5).**
+The app will launch in your browser at a local port, e.g. `https://localhost:7241/`.
 
 ---
 
 ## Database Setup
 
-The project uses **SQLite** for data storage.  
+The project uses **SQLite** for data storage.
+
 To create and seed the database:
 
-1. Run the application.  
-2. Navigate to `/Home/SeedDatabase` in your browser.  
-3. The system will create and populate the database automatically.  
+1. Run the application.
+2. Navigate to `/Home/SeedDatabase` in your browser.
+3. The system will create and populate the database automatically.
 
 ---
 
 ## Validation
 
-Validation is handled through a custom attribute:  
-`VerifyFunctionsAttribute` – ensures only approved function values are allowed (e.g., 240, 300, 315, 400, 417, 422, 552, 605, 640).  
+Validation is handled through a custom attribute:
+
+`VerifyFunctionsAttribute` – ensures only approved function values are allowed (e.g., 240, 300, 315, 400, 417, 422, 552, 605, 640).
 
 This maintains **data integrity** and provides **clear feedback** to the user.
 
@@ -68,18 +70,17 @@ This maintains **data integrity** and provides **clear feedback** to the user.
 
 ## Built With
 
-- C# (.NET 8) [(learn.microsoft.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fdotnet%2Fcsharp%2F")  
-- ASP.NET Core MVC [(learn.microsoft.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Faspnet%2Fcore%2Fmvc%2Foverview")  
-- Entity Framework Core [(learn.microsoft.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Fef%2Fcore%2F")  
-- [SQLite](https://www.sqlite.org/index.html)  
-- Razor Pages [(learn.microsoft.com in Bing)](https://www.bing.com/search?q="https%3A%2F%2Flearn.microsoft.com%2Fen-us%2Faspnet%2Fcore%2Frazor-pages%2F")  
-- Dependency Injection  
+* C# (.NET 8) [(learn.microsoft.com)](https://learn.microsoft.com/en-us/dotnet/csharp/)
+* ASP.NET Core MVC [(learn.microsoft.com)](https://learn.microsoft.com/en-us/aspnet/core/mvc/overview)
+* Entity Framework Core [(learn.microsoft.com)](https://learn.microsoft.com/en-us/ef/core/)
+* [SQLite](https://www.sqlite.org/index.html)
+* Razor Pages [(learn.microsoft.com)](https://learn.microsoft.com/en-us/aspnet/core/razor-pages/)
+* Dependency Injection
 
 ---
 
 ## Credit
 
 [Rethabile Eric Siase](https://github.com/Rethabile2004/)
-```
 
----
+```
