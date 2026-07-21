@@ -34,10 +34,9 @@ The application allows users to manage a database of calculators by performing *
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Rethabile2004/calculatorDb-ASP.NET-MVC.git](https://github.com/Rethabile2004/calculatorDb-ASP.NET-MVC.git)
+   git clone https://github.com/Rethabile2004/calculatorDb-ASP.NET-MVC.git
    cd calculatorDb-ASP.NET-MVC
 
-```
 
 2. **Open the project in Visual Studio.**
 3. **Build the solution.**
@@ -83,4 +82,3 @@ This maintains **data integrity** and provides **clear feedback** to the user.
 
 [Rethabile Eric Siase](https://github.com/Rethabile2004/)
 
-```
